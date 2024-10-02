@@ -1,13 +1,13 @@
 # Portfolio
 
 ### Education
-Master’s Degree in Artificial Intelligence | University of Aberdeen (June 2024).
-B.E. in Mechatronics Engineering | Rajalakshmi Engineering College (May 2022).
+* Master’s Degree in Artificial Intelligence | University of Aberdeen (June 2024)
+* B.E. in Mechatronics Engineering | Rajalakshmi Engineering College (May 2022)
 
 ### Skills
-Proficiency in Python and Machine Learning libraries like Tensorflow, Pytorch and Pandas
-Familiar with MS office
-Skilled in Data Processing and Machine learning Algorithms
+* Proficiency in Python and Machine Learning libraries like Tensorflow, Pytorch and Pandas
+* Familiar with MS office
+* Skilled in Data Processing and Machine learning Algorithms
 
 ### Projects
 Classification Model using Sparse Neural Network
