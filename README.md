@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Education
-* MSc in Artificial Intelligence - University of Aberdeen(June 2024)
+* MSc in Artificial Intelligence - University of Aberdeen (June 2024)
 * B.E. in Mechatronics Engineering - Rajalakshmi Engineering College(May 2022)
 
 ### Skills
