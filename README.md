@@ -14,7 +14,8 @@
 
 ### Projects
 Classification Model using Sparse Neural Network
-* Trained a number of models for image classification through implementation of Sparse Neural Network.
+* Trained models like ResNet and VGG for image classification through implementation of Sparse Neural Network.
+* To address accuracy deficiencies in Sparse training, masking and selective pruning as well as weight regrowth is implemented.
 * Successfully optimized the original training performance of the Sparse models by 50% by applying weight sharing techniques.
 * Produced a respectable result with an accuracy of 72%.
 
