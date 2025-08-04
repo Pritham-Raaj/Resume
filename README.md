@@ -5,9 +5,12 @@
 * B.E. in Mechatronics Engineering - Rajalakshmi Engineering College(May 2022)
 
 ### Skills
-* Proficiency in Python and Machine Learning libraries like Tensorflow, Pytorch and Pandas
-* Familiar with MS office
-* Skilled in Data Processing and Machine learning Algorithms
+* Proficiency in Python
+* Skilled in Data Analysis and Processing
+* Machine Learning libraries like Tensorflow, Pytorch, Pandas, Scikit-learn and Numpy.
+* ML algorithms like Logistic Regression, Decision Trees, Neural Networks and Transformers.
+* Proficient in Data visualisation using Matplotlib, SHAP and Seaborn.
+* Profcient in container tools like Docker.
 
 ### Projects
 Classification Model using Sparse Neural Network
